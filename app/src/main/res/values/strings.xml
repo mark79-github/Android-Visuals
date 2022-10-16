@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Visuals</string>
+    <string name="file_name">Resource name: %1$s%2$sResource file name: %3$s</string>
+    <string name="button_caption">Change image</string>
+</resources>
